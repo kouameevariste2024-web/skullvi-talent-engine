@@ -1,0 +1,16 @@
+# Donnees de candidats et CV (donnees personnelles : ne jamais publier)
+candidatures.csv
+classement.csv
+cv/
+*.tmp
+
+# Secrets
+.env
+*.env
+
+# Python / systeme
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
