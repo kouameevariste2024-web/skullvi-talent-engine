@@ -1,0 +1,8 @@
+nom,email,competences,annees_experience,nb_projets,lien_portfolio,motivation,disponibilite
+Awa Koné,awa.kone@example.com,Python; SQL; Git; Flask; API; Docker,2,4,https://github.com/awakone,"Je veux apprendre au contact d'une équipe, contribuer à des projets concrets et évoluer vers plusieurs spécialités. J'ai déjà construit une API de gestion de stocks et je suis curieuse de résoudre de vrais problèmes.",oui
+Yao Brou,yao.brou@example.com,JS; React; HTML; CSS; Node.js,1,3,https://yao.dev,"Passionné de développement web, je souhaite contribuer et apprendre en équipe sur des projets utiles.",oui
+Fatou Diallo,fatou.diallo@example.com,Excel; Word,0,0,,Je cherche un emploi.,partiel
+Ibrahim Traoré,ibrahim@example,Python,3,5,https://github.com/ibra,Motivé.,oui
+,sans.nom@example.com,Python,1,1,,Bonjour,oui
+Awa Koné,AWA.KONE@example.com,Python; SQL; Git; Flask; API; Docker; Tests,2,5,https://github.com/awakone,"Version mise à jour : je veux apprendre, contribuer et construire des projets avec une équipe. Mon dernier projet est une plateforme de suivi avec tests automatisés.",oui
+Marc Kouassi,marc.k@example.com,"Java, SQL, Git",abc,2,github.com/marck,"Étudiant en dernière année, je souhaite apprendre et contribuer à un projet d'équipe tout en développant mes compétences backend.",non
