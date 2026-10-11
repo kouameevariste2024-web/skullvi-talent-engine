@@ -1,0 +1,2 @@
+# Lecture des CV au format PDF (optionnel : sans cette bibliotheque, tout le reste fonctionne)
+pypdf>=4.0

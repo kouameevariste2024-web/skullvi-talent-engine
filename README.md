@@ -2,7 +2,7 @@
 
 Première solution fonctionnelle pour **recevoir → collecter → qualifier → scorer → classer → prioriser** les candidatures.
 
-Python 3.8+ uniquement, **aucune dépendance**.
+Python 3.8+. Le moteur de scoring et le site fonctionnent **sans aucune dépendance** ; seule la lecture des CV au format PDF utilise `pypdf` (`pip install -r requirements.txt`, ou `apt install python3-pypdf` sur Ubuntu). Sans elle, le formulaire reste utilisable : le pré-remplissage est simplement indisponible pour les PDF (les DOCX restent lus).
 
 ## Lancer
 
